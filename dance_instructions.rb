@@ -1,7 +1,10 @@
 
 # Code your methods below
-def dance_instructions
-  puts "plant legs far apart, bend knees slightly and keep posture loose"
+def staring_stance
+  puts "Plant legs far apart, bend knees slightly and keep posture loose"
+end 
+
+def
   puts "lift right foot"
   puts "return right foot to the ground"
   puts "finishing with a small skip-step backward"
